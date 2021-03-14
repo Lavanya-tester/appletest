@@ -14,6 +14,7 @@ public class AppTest
        System.out.println("Java Selenium");
        System.out.println("Python Test");
        System.out.println("Ruby Test");
-       
+       System.out.println("This is Git Priject");
+       System.out.println("This is Jenkins Priject");
     }
 }
